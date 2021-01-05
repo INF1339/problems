@@ -1,0 +1,18 @@
+[
+  {
+  "qqqq": 1,
+  "question": "What is the meaning of life?",
+  "correct": "It's a board game.",
+  "alt_response": ["No one knows", "42", "Death"],
+  "explanation": "Back in the 60s things were different.",
+  "tags": ["popcult"]
+  },
+  {
+    "qqqq": 2,
+    "question": "What is the meaning of death?",
+    "correct": "It's not a board game.",
+    "alt_response": ["No one knows", "42", "Life"],
+    "explanation": "Same as it ever was.",
+    "tags": ["existentialism"]
+    }  
+]
